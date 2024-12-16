@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "appTitle": "Dance Studios",
+  "appTitleMap": "Dance Studios Map",
+  "appTitleDetails": "Studio Details",
+  "bookNow": "Book Now",
+  "booking": "Booking...",
+  "ok": "OK",
+  "refresh": "Refresh",
+  "address": "Address",
+  "danceStyles": "Dance Styles",
+  "description": "Description",
+  "searchDanceStyles": "Search by Dance Styles",
+  "filterByDanceStyle": "Filter by Dance Style",
+  "all": "All",
+  "noStudiosFound": "No studios found.",
+  "errorFetchingStudios": "Failed to fetch dance studios.",
+  "errorBookingStudio": "Failed to book dance studio. Please try again.",
+  "bookingConfirmed": "Booking Confirmed",
+  "bookingConfirmationMessage": "Your booking has been successfully confirmed!",
+  "studios": "Studios",
+  "map": "Map"
+}
